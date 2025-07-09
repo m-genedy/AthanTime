@@ -70,20 +70,20 @@ https://github.com/user-attachments/assets/5e362b03-ac03-477d-a6c9-a40822562728
 
 ## 📸 Screenshots
 
-### location settings
+### Location settings
 ![prayer timer4-1752041919113](https://github.com/user-attachments/assets/e037bdf4-bb2c-4fc5-811d-4dbbc3712335)
 
-### visuals settings
+### Visuals settings
 ![prayer timer4-1752041953076](https://github.com/user-attachments/assets/c7b81bde-b335-44cb-9dda-b9c187c628d0)
 
-### calendar settings
+### Calendar settings
 ![prayer timer4-1752042008147](https://github.com/user-attachments/assets/b525f9c4-2e97-4f12-8177-21d834544024)
 
-### notifications settings
+### Notifications settings
 ![prayer timer4-1752042067886](https://github.com/user-attachments/assets/31c31718-5fd0-47ce-9c51-ddcc2dff948c)
 
 
-### reminders settings
+### Reminders settings
 ![prayer timer4-1752042089138](https://github.com/user-attachments/assets/6efb7d3f-2042-4be6-94e4-ad713aef12c2)
 
 
