@@ -16,17 +16,20 @@ Stay connected to your prayer schedule and never miss a prayer :)
 
 ### ⭕**Circle**
 -  Animated arc with gradient colors
+  
 ![prayer timer4-1752041354929](https://github.com/user-attachments/assets/62d45a4e-2443-4951-9287-814a89dd2600)
 
 
 ### 📊**Progress Bar**
 -  Horizontal timeline with countdown
+  
 ![prayer timer4-1752041363133](https://github.com/user-attachments/assets/bb51871d-93c3-40fe-ac50-028eb8e2a0c6)
 
 
 
 ### 📃**List**
 - Vertical schedule with current prayer highlighted
+  
 ![prayer timer4-1752041371653](https://github.com/user-attachments/assets/c994af3a-265f-4532-ac25-25d4c6d4dabc)
 
 
