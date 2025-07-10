@@ -65,8 +65,9 @@ Click "auto-detect location" button in location tab in the settings
 
 1. App auto-detects your location
 2. Left-click system tray icon → Shows prayer widget
-3. Right-click system tray icon → Show calendar widget
-4. Configure settings via right-click menu
+3. Left-click again → Closes widget if open
+4. Right-click system tray icon → Show calendar widget
+5. Configure settings via right-click menu
 
 ## 🎥 Demo
 https://github.com/user-attachments/assets/7d9a784b-3c46-4105-a9d3-46cc6980b02b
