@@ -2,6 +2,12 @@
 _Beautiful desktop widgets for Islamic prayer times with fasting calendar and smart , reliable notifications._
 Stay connected to your prayer schedule and never miss a prayer :) 
 
+## 💾 Installation
+Download the latest .exe from Releases
+Run the installer 
+App will auto-start and appear in system tray
+Click "auto-detect location" button in location tab in the settings
+
 
 ## ✨ Features
 
@@ -63,8 +69,9 @@ Stay connected to your prayer schedule and never miss a prayer :)
 4. Configure settings via right-click menu
 
 ## 🎥 Demo
+https://github.com/user-attachments/assets/7d9a784b-3c46-4105-a9d3-46cc6980b02b
 
-https://github.com/user-attachments/assets/5e362b03-ac03-477d-a6c9-a40822562728
+
 
 
 
